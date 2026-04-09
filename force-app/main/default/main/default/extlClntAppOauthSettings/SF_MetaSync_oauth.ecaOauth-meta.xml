@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <commaSeparatedOauthScopes>Api, RefreshToken</commaSeparatedOauthScopes>
+    <externalClientApplication>SF_MetaSync</externalClientApplication>
+    <isFirstPartyAppEnabled>false</isFirstPartyAppEnabled>
+    <label>SF_MetaSync_oauth</label>
+    <oauthLink>00D46000000psND:888fj000000gLw5</oauthLink>
+</ExtlClntAppOauthSettings>

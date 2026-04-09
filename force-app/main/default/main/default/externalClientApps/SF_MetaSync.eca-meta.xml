@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>thedges@salesforce.com</contactEmail>
+    <distributionState>Packaged</distributionState>
+    <isProtected>false</isProtected>
+    <label>SF MetaSync</label>
+    <orgScopedExternalApp>00D46000000psND:SF_MetaSync</orgScopedExternalApp>
+</ExternalClientApplication>
